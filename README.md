@@ -4,12 +4,15 @@ This project implements a financial chatbot that provides insights about a compa
 
 ### Features
 **Data Processing:** Reads and processes financial data from CSV files.
+
 **Growth Calculation:** Calculates the growth percentage of key financial metrics, such as:
 --> Revenue Growth
 --> Net Income Growth
 --> Assets Growth
 --> Cash Flow from Operations Growth
-**Financial Insights:** The bot can provide financial summaries and year-over-year growth rates for Apple, Microsoft, and Tesla.
+
+**Financial Insights:** The bot can provide financial summaries and year-over-year growth rates 
+
 **Chatbot Interface:** The user interacts with the chatbot to ask specific financial queries, including:
 --> Total Revenue
 --> Net Income
